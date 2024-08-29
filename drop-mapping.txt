@@ -214,3 +214,7 @@ Fortis Colosseum,28936,Fortis Colosseum,Sunfire fanatic cuirass
 Fortis Colosseum,28939,Fortis Colosseum,Sunfire fanatic chausses
 Tormented Demon,29574,Tormented Demon,Bone claw
 Tormented Demon,29580,Tormented Demon,Tormented synapse
+Araxxor,29799,Araxxor,Araxyte fang
+Araxxor,29792,Araxxor,Noxious blade
+Araxxor,29790,Araxxor,Noxious point
+Araxxor,29794,Araxxor,Noxious pommel
